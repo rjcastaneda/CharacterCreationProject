@@ -1,4 +1,5 @@
 Project by Roswell James Castaneda
+820249749
 San Diego State University
 CS 583 Game Design 
 Project 1: DND Character Creation
@@ -20,7 +21,7 @@ in the CS 583 course in San Diego State University.
 Icons/Sprites/Images
 ---------------------
 Dice Icon.png - https://www.flaticon.com/free-icon/dice_2102198?term=dice&page=1&position=7
-bg_1_1.png - https://opengameart.org/content/starfield-background
+space1.png - https://opengameart.org/content/space-background-2
 
 ---------------------
         Fonts
